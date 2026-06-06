@@ -624,18 +624,21 @@ Before coding:
 
 # 📊 Progress Tracker
 
-- [ ] Arrays & Strings
-- [ ] HashMap & HashSet
-- [ ] Two Pointers
-- [ ] Sliding Window
-- [ ] Stack
-- [ ] Linked List
-- [ ] Binary Search
-- [ ] Trees
-- [ ] Heap
-- [ ] Backtracking
-- [ ] Graphs
-- [ ] Dynamic Programming
+| Topic | Status |
+|---------|---------|
+| Arrays & Strings | ✅ |
+| HashMap & HashSet | ✅ |
+| Two Pointers | ✅ |
+| Sliding Window | ✅ |
+| Stack | ✅ |
+| Linked List | ✅ |
+| Binary Search | ✅ |
+| Trees | ✅ |
+| Heap | ✅ |
+| Backtracking | ✅ |
+| Graphs | ⬜ |
+| Dynamic Programming | ⬜ |
+
 ---
 
 # 📝 Solution Template
